@@ -6,7 +6,9 @@
 ## About
 TextEditor coded in Java using the Eclipse IDE. Using [Stanford's acm library](https://cs.stanford.edu/people/eroberts/jtf/), more specifically the [acm.graphics package](https://cs.stanford.edu/people/eroberts/jtf/rationale/GraphicsPackage.html).
 
-This is an ongoing project. Supports importing text file from your computer into this TextEditor. Can also save from this TextEditor to a text file in your computer.
+This is an ongoing project from October 2021 - Now
+
+Supports importing text file from your computer into this TextEditor. Can also save from this TextEditor to a text file in your computer.
 
 You could technically use this TextEditor to modify its own source code!
 
