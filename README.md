@@ -12,7 +12,7 @@ Supports importing text file from your computer into this TextEditor. Can also s
 
 You could technically use this TextEditor to modify its own source code!
 
-## How to Replicate
+## How to use this TextEditor
 1. Open up your Terminal App.
 2. Clone this repo by running:
 ```bash
