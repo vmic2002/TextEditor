@@ -12,6 +12,11 @@ Supports importing text file from your computer into this TextEditor. Can also s
 
 You could technically use this TextEditor to modify its own source code!
 
+## Project Setup
+The java files are in the `src` folder. If you open this project in Eclipse, modify the code and compile, the `.class` files in the `bin` folder will be updated.
+
+These `.class` files are the ones being used to run the TextEditor from the command line.
+
 ## How to use this TextEditor
 1. Open up your Terminal App.
 2. Clone this repo by running:
