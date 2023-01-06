@@ -10,6 +10,8 @@ This is an ongoing project from October 2021 - Now
 
 Supports importing text file from your computer into this TextEditor. Can also save from this TextEditor to a text file in your computer.
 
+There are four buttons on the right side of the editor to import a file, save to a file, scroll up, and scroll down.
+
 You could technically use this TextEditor to modify its own source code!
 
 ## Project Setup
