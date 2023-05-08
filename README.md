@@ -31,3 +31,5 @@ cd TextEditor
 ./openTextEditor.sh
 ```
 The openTextEditor.sh file is a bash script that will run the TextEditor from the command line.
+
+<img width="1000" alt="Screenshot 2023-05-07 at 8 19 39 PM" src="https://user-images.githubusercontent.com/89990471/236726381-f209cb42-87ba-4a73-bf68-219489390415.png">
